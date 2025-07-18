@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on 2 projects - finance tracker and online booking system
-🌱 I’m currently learning web security and testing tools
+🔭 I’m currently working on 2 projects - finance tracker and online booking system and learning web security and testing tools
 
 
 # 💻 Tech Stack:
