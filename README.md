@@ -4,7 +4,7 @@
 🔎 I'm a novice frontend developer who strive to enhance my skills every day<br>
 
 ## 🌐 Socials:
-[(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] https://www.linkedin.com/in/raul-nik-zade-70124b324/
+https://www.linkedin.com/in/raul-nik-zade-70124b324/
 
 
 # 💻 Tech Stack:
