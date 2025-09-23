@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 # 💫 About Me:
 I’m a frontend developer exploring the world of modern web technologies.<br>🌱 Currently practicing React and strive to start build full stack applications.<br>🛠 Building pet projects to sharpen my skills.<br>🎯 I am eager to grow into a professional developer and contribute to real-world projects.
 
